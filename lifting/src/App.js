@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Route, Switch, Link} from "react-router-dom"
 import AddExercise from './components/addExercise';
 import MyWorkouts from './components/myExercises';
 import NavBar from './components/NavBar';
-
+import SignUp from './components/SignUp'
 
 function App() {
   return (
